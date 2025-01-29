@@ -303,3 +303,5 @@ function setupTouchControls() {
         shoot({ code: "Space" });
     });
 }
+
+//code updated

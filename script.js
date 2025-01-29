@@ -304,4 +304,5 @@ function setupTouchControls() {
     });
 }
 
-//code updated
+//add code here 
+console.log(print);

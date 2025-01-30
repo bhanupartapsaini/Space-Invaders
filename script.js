@@ -304,4 +304,4 @@ function setupTouchControls() {
     });
 }
 
-//end of the code
+//end of the code yes completed
